@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Karthik Haji Nair, a passionate Software Engineering student with a deep interest in web development and Java full-stack development. I primarily work with the MERN stack and Next.js, while also exploring Spring Boot and Java. I'm constantly learning and building projects to sharpen my skills, and I enjoy problem-solving through dynamic programming. Currently on a journey to master React, TypeScript, and Spring Security. Let's connect and collaborate on exciting projects!
+👋 Hi, I'm Karthik H Nair, a passionate Software Engineering student with a deep interest in web development. I primarily work with the MERN stack. I'm constantly learning and building projects to sharpen my skills, and I enjoy problem-solving. Currently on a journey to master React, TypeScript and NodeJs. Let's connect and collaborate on exciting projects!
 
 
 ## 🌐 Socials:
